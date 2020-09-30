@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ansh Rastogi</h1>
-<h3 align="center">A passionate frontend Web Developer</h3>
+<h3 align="center">A passionate Front-End Web Developer</h3>
 
 - 🔭 I’m currently working as a Front-end web Developer on [PGDAV Placement Cell's Website](www.pgdavplacementcell.in)
 
