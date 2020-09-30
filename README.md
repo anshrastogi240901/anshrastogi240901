@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 👨‍💻 All of my projects are available at [anshrastogi.tech](anshrastogi.tech)
+- 👨‍💻 All of my projects are available at [www.anshrastogi.tech](www.anshrastogi.tech)
 
 - 💬 Ask me about **HTML5, CSS3, JS, jQuery, PHP7, BootStrap4, C/C++, JAVA, Python**
 
