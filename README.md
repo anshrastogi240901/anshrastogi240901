@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React.js**
 
-- 💬 Ask me about **HTML5, CSS3, JS, jQuery, PHP7, BootStrap4, C/C++, JAVA, Python, Android, React.js**
+- 💬 Ask me about **HTML5, CSS3, JS, jQuery, PHP7, BootStrap4, C/C++, JAVA, Python, Android, React.js, MaterialUI, TailwindCSS **
 
 - 📫 How to reach me **coolansh134@gmail.com**
 
@@ -32,6 +32,8 @@
   <li>Android</li>
   <li>React.js</li>
   <li>BootStrap</li>
+  <li>MaterialUI</li>
+  <li>TailwindCSS</li>
   <li>Material UI</li>
   <li>Google Cloud</li>
   <li>Git</li>
